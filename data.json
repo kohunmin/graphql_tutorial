@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@mgail.com",
+      "age": "35"
+    },
+    {
+      "id": "2",
+      "name": "Steve Smath",
+      "email": "steve@mgail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Sara Williams",
+      "email": "sara@mgail.com",
+      "age": "32"
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "ytBi0IY"
+    }
+  ]
+}
